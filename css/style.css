@@ -1,0 +1,38 @@
+#wrap {
+	margin:auto;
+	width:320px;
+}
+
+#search {
+	background-color: white;
+	padding: 10px;
+	margin-bottom:15px;
+	border-radius:15px;
+	border:1px solid green;
+}
+
+#search img {
+	max-width:300px;
+}
+
+#massage {
+	background-color:yellow;
+	border-radius:15px;
+	text-align:center;
+	border:1px solid green;
+}
+
+#result {
+	padding:10px;
+	border-radius:15px;
+	margin-bottom:3px;
+	border:1px solid green;
+	
+}
+
+
+
+
+
+
+
